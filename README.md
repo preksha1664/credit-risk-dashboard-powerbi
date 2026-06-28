@@ -1,6 +1,5 @@
 # Customer Credit Risk Dashboard
-
-Power BI dashboard built to identify credit delinquency risk drivers across customer region, income band, and spend behavior — supporting proactive credit limit review decisions.
+Power BI dashboard built to identify credit delinquency risk drivers across customer regions, income bands, and spending behavior, supporting proactive credit risk review decisions.
 
 ## Business Problem
 A credit card issuer needs to identify which customer segments carry the highest risk of delinquency, in order to proactively manage credit exposure before losses occur, rather than reacting after the fact.
